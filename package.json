@@ -1,0 +1,23 @@
+{
+  "name": "MySqlNpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoang-Minh/MySqlNpm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoang-Minh/MySqlNpm/issues"
+  },
+  "homepage": "https://github.com/Hoang-Minh/MySqlNpm#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
