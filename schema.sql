@@ -7,3 +7,6 @@ CREATE TABLE user(
     email VARCHAR(30) NOT NULL,
     phone INTEGER(11) NOT NULL
 );
+
+-- Delete database
+-- TRUNCATE db;
